@@ -2,12 +2,20 @@
 Python 3 para escépticos
 ========================
 
+
+
 :autor: Martín Gaitán
+
 :evento: Python Meetup Córdoba
 :lugar: The Tech Pub, Córdoba, Argentina
 :fecha: 18 de Marzo de 2016
 
-|
+
+:evento: PyDay Loja
+:lugar: Loja, Ecuador  (via teleconferencia)
+:fecha: 1 de Abril de 2016
+
+
 .. image:: http://mgaitan.github.com/curso-django/slides/static/img/cc_by_sa-3.png
    :align: center
 
