@@ -35,8 +35,7 @@ Sobre el autor
 Martín Gaitán es Ing. Comp. por la UNC. Pythonista desde hace una década, es especialista
 en el framework web Django, en el stack de herramientas científicas basadas en Python y,
 desde algunos meses, en cambiar pañales con una mano.
-Actualmente trabaja en Onapsis, donde se codea con los más grosos
-apoyabrazos y muy buenos programadores. Suele ser orador en eventos
+Actualmente trabaja en Onapsis, donde se codea con el borde de su escritorio y con muy buenos programadores. Suele ser orador en eventos
 sobre software libre y arador en su perpetuo intento de huerta. Hincha
 de Boca y fundamentalista del locro (ambas pasiones, incluso en verano).
 
