@@ -6,16 +6,6 @@ Python 3 para escépticos
 
 :autor: Martín Gaitán
 
-:evento: Python Meetup Córdoba
-:lugar: The Tech Pub, Córdoba, Argentina
-:fecha: 18 de Marzo de 2016
-
-
-:evento: PyDay Loja
-:lugar: Loja, Ecuador  (via teleconferencia)
-:fecha: 1 de Abril de 2016
-
-
 .. image:: http://mgaitan.github.com/curso-django/slides/static/img/cc_by_sa-3.png
    :align: center
 
@@ -39,9 +29,24 @@ Actualmente trabaja en Onapsis, donde se codea con el borde de su escritorio y c
 sobre software libre y arador en su perpetuo intento de huerta. Hincha
 de Boca y fundamentalista del locro (ambas pasiones, incluso en verano).
 
+Presentaciones
+==============
+
+:evento: Python Meetup Córdoba
+:lugar: The Tech Pub, Córdoba, Argentina
+:fecha: 18 de Marzo de 2016
+
+----
+
+:evento: PyDay Loja
+:lugar: Loja, Ecuador  (via teleconferencia)
+:fecha: 1 de Abril de 2016
+
 
 Agradecimiento
 ==============
 
 `Onapsis <http://onapsis.com>`_ me permitió dedicar algunas horas laborales para la preparación
 de esta charla.
+
+
