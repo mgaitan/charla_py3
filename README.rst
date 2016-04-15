@@ -43,10 +43,28 @@ Presentaciones
 :fecha: 1 de Abril de 2016
 
 
+Instalación para presentación **en vivo**
+==========================================
+
+La presentación se basa en un `jupyter notebook <http://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/what_is_jupyter.html>`_,
+(ejecutado con **kernel Python 3.5**) con la correspondiente metainformación en cada "celda" para visualizarse como diapositivas.
+
+Si este documento se ejecuta en Jupyter con el plugin `RISE <https://github.com/damianavila/RISE>`_, las diapositivas se pueden
+ver "en vivo", permitiendo modificar los ejemplos en tiempo real.
+
+::
+
+  mkvirtualenv -p /usr/bin/python3.5 charla_py3
+  git clone https://github.com/mgaitan/charla_py3.git .
+  pip install -r requirements.txt
+  wget https://github.com/damianavila/RISE/archive/master.zip; unzip master.zip; python RISE-master/setup.py
+  jupyter notebook py3.ipynb
+
+
 Agradecimiento
 ==============
 
-`Onapsis <http://onapsis.com>`_ me permitió dedicar algunas horas laborales para la preparación
+`Onapsis <http://onapsis.com>`_ me permitió dedicar algunas horas laborales para la preparacmión
 de esta charla.
 
 
